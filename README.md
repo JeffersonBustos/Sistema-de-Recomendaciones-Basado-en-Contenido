@@ -1,4 +1,4 @@
-# Sistema-de-Recomendaciones-Basado-en-Contenido
+# Sistema-de-Recomendaciones
 from google.colab import drive
 drive.mount('/content/drive')
 
